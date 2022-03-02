@@ -22,3 +22,8 @@
   <img  src="https://github.com/okansungur/django/blob/main/img/project1.png"><br/>
   PyCharm
 </p>
+
+<p align="center">
+  <img  src="https://github.com/okansungur/django/blob/main/img/createmy_web_proj.png"><br/>
+  My_Web_Project
+</p>
