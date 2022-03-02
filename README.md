@@ -51,3 +51,24 @@
   Migration
 </p>
 
+
+<p align="center">
+  <img  src="https://github.com/okansungur/django/blob/main/img/myfirstapp2.png"><br/>
+  
+</p>
+
+
+
+<p align="center">
+  <img  src="https://github.com/okansungur/django/blob/main/img/myfirstapp3.png"><br/>
+  
+</p>
+
+
+
+<p align="center">
+  <img  src="https://github.com/okansungur/django/blob/main/img/myfirstapp2.png"><br/>
+  Migration
+</p>
+
+
