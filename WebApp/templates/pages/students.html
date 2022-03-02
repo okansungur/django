@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>students</title>
+</head>
+<body>
+<p>
+The List of the Stdents are: </p>
+{% for obj in object_list  %}
+    {{  obj.id }} &nbsp;
+    {{  obj.name }} &nbsp;
+    {{  obj.surname }}&nbsp;
+    {{  obj.age }}<br>
+{% endfor %}
+<br>
+The end
+</body>
+</html>
