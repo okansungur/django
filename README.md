@@ -24,6 +24,12 @@
 </p>
 
 <p align="center">
+  <img  src="https://github.com/okansungur/django/blob/main/img/myfirstapp.png"><br/>
+  My_Web_Project
+</p>
+
+
+<p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/createmy_web_proj.png"><br/>
   My_Web_Project
 </p>
@@ -36,7 +42,7 @@
 
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/database.png"><br/>
-  Embeded Database
+  Database
 </p>
 
 
