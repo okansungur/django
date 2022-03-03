@@ -76,7 +76,7 @@ class Students(models.Model):
     surname = models.CharField(max_length=100)
     age = models.IntegerField(null=True)
 ```
-
+The pip freeze > requirements.txt command produces a list of all installed packages.This will be used in docker file.
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/database.png"><br/>
   Embeded Database
