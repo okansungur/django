@@ -4,8 +4,9 @@ The Django has MVT(Model View Template) pattern
 - Model: Manages data and business.(Data Access Layer)
 - View: Deals with the business logic and returns a response to the user by the help of a model to carry data to templates
 - Presentation: Html, css, javascript and static files (presentation layer)
- Virtual environments provide managing project dependencies.**pip** is a package manager. Allows to install python packages easily.
 
+ Virtual environments provide managing project dependencies.**pip** is a package manager. Allows to install python packages easily.
+ 
 A Django project contains packages and files
 - **manage.py** : A command-line utility that executes Django-specific tasks
 - **_init__.py**: An empty file that tells Python to treat directories as a Python package
@@ -13,6 +14,12 @@ A Django project contains packages and files
 - **urls.py**: Contain listed URLs for the web application
 - **wsgi.py**:(Web Server Gateway Interface)Entry-point to serve Django project.WSGI is a standard that defines how applications and servers communicate with each other.
 
+By default settings file configures  SQLite database.INSTALLED_APPS we can configure projects helper libraries. With TEMPLATES we can create our html files. With STATIC_URL we can define our static files such as images css and javacscript files.Django uses migration files to keep app models and database in sync. One model class generally maps  to a single database table. After creating our models we need to apply them with the help of the commands
+```
+python manage.py makemigrations
+python manage.py migrate
+
+```
 
 
 <p align="center">
