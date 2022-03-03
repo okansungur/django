@@ -71,10 +71,18 @@
   Hosts Configuration
 </p>
 
+Dockerize the web application
+```
+docker run -p 8000:8000 greenredblue/mydjango:v1
+```
+
+<p align="center">
+  <img  src="https://github.com/okansungur/django/blob/main/img/PostMethod.png"><br/>
+  Testing post method
+</p>
 
 
-
-
+Test the rest post method with Postman
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/PostMethod.png"><br/>
   Testing post method
