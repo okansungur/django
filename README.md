@@ -76,14 +76,14 @@ class Students(models.Model):
     surname = models.CharField(max_length=100)
     age = models.IntegerField(null=True)
 ```
-The pip freeze > requirements.txt command produces a list of all installed packages.This will be used in docker file.
+
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/database.png"><br/>
   Embeded Database
 </p>
 
 
-
+The pip freeze > requirements.txt command produces a list of all installed packages.This will be used in docker file.
 With migration command we execute  SQL commands in the database file and all the tables of  installed apps are created in our database. You can check the migration folder after executing the command.
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/django3.png"><br/>
