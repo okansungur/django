@@ -76,8 +76,8 @@
 
 
 <p align="center">
-  <img  src="https://github.com/okansungur/django/blob/main/img/createmy_web_proj.png"><br/>
-  Hosts Configuration
+  <img  src="https://github.com/okansungur/django/blob/main/img/PostMethod.png"><br/>
+  Testing post method
 </p>
 
 
