@@ -75,6 +75,8 @@ With migration command we execute  SQL commands in the database file and all the
   Migration
 </p>
 
+To add an initial data we added migrations.RunSQL command to our generated code __0001_initial.py__.
+
 
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/myfirstapp2.png"><br/>
