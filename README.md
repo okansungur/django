@@ -1,9 +1,9 @@
 # Django 
 Django is one of the most popular Python web framework.Django provides a complete mechanism for managing database,templates,rest. We can define Django as a full-stack web framework, whereas Flask is a light-weight (micro) framework when compared.Although Django is a production-ready framework if the requirements change dynamically it is not preffered. Django is good for big projects whereas Flask for simple applications that dont require too much coding.
-The Django MVT pattern 
-- Model: Manages data and business.
-- View: Decides data sent to user
-- Presentation: Html, css, javascript and static files 
+The Django has MVT(Model View Template) pattern 
+- Model: Manages data and business.(Data Access Layer)
+- View: Deals with the business logic and returns a response to the user by the help of a model to carry data to templates
+- Presentation: Html, css, javascript and static files (presentation layer)
 
 
 
