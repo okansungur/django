@@ -1,11 +1,12 @@
 # Django 
 Django is one of the most popular Python web framework.Django provides a complete mechanism for managing database,templates,rest 
 
+
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/python.png"><br/>
   Python
 </p>
-
+After downloading python. Check the python version from the commnand line.We will also need to install Django and Djangorest framework.
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/django.png"><br/>
   Django
@@ -17,7 +18,7 @@ Django is one of the most popular Python web framework.Django provides a complet
   Rest
 </p>
 
-
+We will use PyCharm as the IDE as it provides lots of features for developers.
 
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/project1.png"><br/>
