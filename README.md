@@ -68,10 +68,6 @@ class Students(models.Model):
 </p>
 
 
-<p align="center">
-  <img  src="https://github.com/okansungur/django/blob/main/img/database.png"><br/>
-  Database
-</p>
 
 With migration command we execute  SQL commands in the database file and all the tables of  installed apps are created in our database. You can check the migration folder after executing the command.
 <p align="center">
