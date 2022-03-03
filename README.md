@@ -44,7 +44,7 @@ To keep code simple and clean  Django project vcan consist multiple applications
   My_Web_Project
 </p>
 
-We will use a database sqllite which we define in __settings.py__.
+We will use a database SQLite,  where  we define in __settings.py__.
 ```
 DATABASES = {
     'default': {
@@ -73,7 +73,7 @@ class Students(models.Model):
   Database
 </p>
 
-
+With migration command we execute  SQL commands in the database file and all the tables of  installed apps are created in our database. You can check the migration folder after executing the command.
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/django3.png"><br/>
   Migration
