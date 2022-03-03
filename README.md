@@ -1,4 +1,5 @@
 # Django 
+Django is one of the most popular Python web framework.Django provides a complete mechanism for managing database,templates,rest 
 
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/python.png"><br/>
