@@ -51,6 +51,10 @@ Create a project WebApp.
   My_Web_Project
 </p>
 
+<p align="center">
+  <img  src="https://github.com/okansungur/django/blob/main/img/myfirstapp3.png"><br/>
+  Output of the web application
+</p>
 To keep code simple and clean  Django project vcan consist multiple applications. To create an application we will use the command __manage.py startup my_web_project__ command.
 
 
