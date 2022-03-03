@@ -100,10 +100,7 @@ To add an initial data we added migrations.RunSQL command to our generated code 
 
 
 
-<p align="center">
-  <img  src="https://github.com/okansungur/django/blob/main/img/myfirstapp3.png"><br/>
-  
-</p>
+
 
 
 To dockerize the application We have to make some modifications. We changed ALLOWED_HOSTS parameter from the __settings.py__.
