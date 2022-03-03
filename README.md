@@ -36,11 +36,31 @@ Create a project WebApp.
   My_Web_Project
 </p>
 
+To keep code simple and clean  Django project vcan consist multiple applications. To create an application we will use the command __manage.py startup my_web_project__ command.
+
 
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/createmy_web_proj.png"><br/>
   My_Web_Project
 </p>
+
+We will use a database sqllite which we define in __settings.py__.
+```
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'MyDatabase'),
+    }
+}
+```
+ Then  We will create our tables by using __models.py__
+ ```
+class Students(models.Model):
+    id = models.AutoField(primary_key=True)
+    name = models.CharField(max_length=100)
+    surname = models.CharField(max_length=100)
+    age = models.IntegerField(null=True)
+```
 
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/database.png"><br/>
