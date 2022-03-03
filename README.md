@@ -67,8 +67,17 @@
 
 
 <p align="center">
-  <img  src="https://github.com/okansungur/django/blob/main/img/myfirstapp2.png"><br/>
-  Migration
+  <img  src="https://github.com/okansungur/django/blob/main/img/dockerize1.png"><br/>
+  Hosts Configuration
+</p>
+
+
+
+
+
+<p align="center">
+  <img  src="https://github.com/okansungur/django/blob/main/img/createmy_web_proj.png"><br/>
+  Hosts Configuration
 </p>
 
 
