@@ -1,5 +1,10 @@
 # Django 
 Django is one of the most popular Python web framework.Django provides a complete mechanism for managing database,templates,rest 
+The Django MVT pattern 
+- Model: Manages data and business.
+- View: Decides data sent to user
+- Presentation: Html, css, javascript and static files 
+
 
 
 <p align="center">
@@ -25,6 +30,7 @@ We will use PyCharm as the IDE as it provides lots of features for developers.
   PyCharm
 </p>
 
+Create a project WebApp.
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/myfirstapp.png"><br/>
   My_Web_Project
