@@ -77,8 +77,8 @@ docker run -p 8000:8000 greenredblue/mydjango:v1
 ```
 
 <p align="center">
-  <img  src="https://github.com/okansungur/django/blob/main/img/PostMethod.png"><br/>
-  Testing post method
+  <img  src="https://github.com/okansungur/django/blob/main/img/output.png"><br/>
+  Web Project Output
 </p>
 
 
