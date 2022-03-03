@@ -91,7 +91,8 @@ To add an initial data we added migrations.RunSQL command to our generated code 
 </p>
 
 
-
+To dockerize the application We have to make some modifications. We changed ALLOWED_HOSTS parameter from the __settings.py__.
+And we prepare a requirements.txt. This file  lists all of the modules needed for the Django project to work.
 <p align="center">
   <img  src="https://github.com/okansungur/django/blob/main/img/dockerize1.png"><br/>
   Hosts Configuration
